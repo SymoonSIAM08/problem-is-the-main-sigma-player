@@ -1,0 +1,15 @@
+div{
+    background-color: rgb(28, 13, 125);
+    padding-inline-start: 25%;
+    background-image: -webkit-gradient(23px);
+    background-position: 50px;
+   
+  
+}
+p{
+    size-adjust: 15px;
+    columns:auto;
+    content: '\f61b';
+    color: firebrick;
+    padding: 45%;
+}
